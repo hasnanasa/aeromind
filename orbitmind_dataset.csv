@@ -1,0 +1,273 @@
+Nom_Satellite,Masse_kg,Puissance_Solaire_W
+Aalto-1 ,4.5,4.5
+AIM (Aeronomy of Ice in Mesosphere),215.0,216.0
+"BeijingGalaxy-1 (Beijing 1 [Tsinghua], Tsinghau-2, China DMC+4)",166.0,50.0
+Bird 2 (Bispectral InfraRed Detector 2),92.0,120.0
+BKA 2 (BelKA 2),400.0,300.0
+Calipso (Cloud-Aerosol Lidar and Infrared Pathfinder Satellite Observation),587.0,550.0
+CartoSat 1 (IRS P5),1560.0,1100.0
+Cassiope (CAScade SmallSat and Ionospheric Polar Explorer),490.0,600.0
+CBERS 4 (China-Brazil Earth Resources Satellite 4),1980.0,2300.0
+CBERS 4A (China-Brazil Earth Resources Satellite 4A),1980.0,2100.0
+Cicero-6 (Community Initiative for Cellular Earth Remote Observation-6),10.0,8.0
+Cloudsat,848.0,570.0
+Coriolis (Windsat),817.0,1174.0
+"COSMIC-A (Formosat-3A, Constellation Observing System for Meteorology, Ionosphere and Climate)",70.0,46.0
+"COSMIC-B (Formosat-3B, Constellation Observing System for Meteorology, Ionosphere and Climate)",70.0,46.0
+"COSMIC-D (Formosat-3D, Constellation Observing System for Meteorology, Ionosphere and Climate)",70.0,46.0
+"COSMIC-E (Formosat-3E, Constellation Observing System for Meteorology, Ionosphere and Climate)",70.0,46.0
+"COSMIC-F (Formosat-3F, Constellation Observing System for Meteorology, Ionosphere and Climate)",70.0,46.0
+COSMO-Skymed 1 (Constellation of small Satellites for Mediterranean basin Observation),1700.0,3600.0
+"Daichi-2 (Advanced Land Observing Satellite-2, ALOS 2 2)",2120.0,5200.0
+Deimos 2 ,310.0,450.0
+DLR Tubsat ,45.0,120.0
+"DMSP 5D-2 F14 (Defense Meteorological Satellites Program, USA 131)",1134.0,900.0
+"DMSP 5D-3 F15 (Defense Meteorological Satellites Program, USA 147)",1152.0,900.0
+"DMSP 5D-3 F16 (Defense Meteorological Satellites Program, USA 172)",1154.0,900.0
+"DMSP 5D-3 F17 (Defense Meteorological Satellites Program, USA 173)",1154.0,900.0
+"DMSP 5D-3 F18 (Defense Meteorological Satellites Program, USA 210)",1155.0,900.0
+DubaiSat-2,300.0,360.0
+EMISat (Electromagnetic Intelligence-gathering Satellite),436.0,800.0
+EOS-AM Terra ,4854.0,2530.0
+EROS B1 (Earth Resources Observation Satellite),350.0,800.0
+Fengmaniu-1 (FMN-1),3.0,15.0
+FORTÃ (Fast On-orbit Recording of Transient Events),215.0,55.0
+"Global Change Observation Mission - 1 Water (GCOM-1, Shikuzu)",1900.0,4.05
+Globalstar FM15,715.0,1700.0
+Globalstar M037 (Globalstar 16),450.0,1500.0
+Globalstar M065 (Globalstar 65),450.0,1500.0
+Globalstar M066 (Globalstar 66),450.0,1500.0
+Globalstar M067 (Globalstar 67),450.0,1500.0
+Globalstar M069 (Globalstar 69),450.0,1500.0
+Globalstar M070 (Globalstar 70),450.0,1500.0
+Globalstar M071 (Globalstar 71),450.0,1500.0
+Globalstar M072 (Globalstar 72),450.0,1500.0
+"Globalstar M073 (Globalstar 73, Globalstar 2-6)",700.0,1700.0
+"Globalstar M074 (Globalstar 74, Globalstar 2-2)",700.0,1700.0
+"Globalstar M075 (Globalstar 75, Globalstar 2-5)",700.0,1700.0
+"Globalstar M076 (Globalstar 76, Globalstar 2-3)",700.0,1700.0
+"Globalstar M077 (Globalstar 77, Globalstar 2-4)",700.0,1700.0
+"Globalstar M078 (Globalstar 95, Globalstar 2-23)",700.0,1700.0
+"Globalstar M079 (Globalstar 79, Globalstar 2-1)",700.0,1700.0
+"Globalstar M080 (Globalstar 80, Globalstar 2-14)",700.0,1700.0
+"Globalstar M081 (Globalstar 81, Globalstar 2-11)",700.0,1700.0
+"Globalstar M082 (Globalstar 82, Globalstar 2-15)",700.0,1700.0
+"Globalstar M083 (Globalstar 83, Globalstar 2-7)",700.0,1700.0
+"Globalstar M084 (Globalstar 84, Globalstar 2-13) ",700.0,1700.0
+"Globalstar M085 (Globalstar 85, Globalstar 2-10)",700.0,1700.0
+"Globalstar M086 (Globalstar 86, Globalstar 2-18)",700.0,1700.0
+"Globalstar M088 (Globalstar 88, Globalstar 2-8)",700.0,1700.0
+"Globalstar M089 (Globalstar 89, Globalstar 2-12)",700.0,1700.0
+"Globalstar M090 (Globalstar 90, Globalstar 2-17)",700.0,1700.0
+"Globalstar M091 (Globalstar 91, Globalstar 2-9)",700.0,1700.0
+"Globalstar M092 (Globalstar 92, Globalstar 2-16)",700.0,1700.0
+"Globalstar M093 (Globalstar 87, Globalstar 2-20)",700.0,1700.0
+"Globalstar M094 (Globalstar 93, Globalstar 2-21)",700.0,1700.0
+"Globalstar M095 (Globalstar 96, Globalstar 2-24)",700.0,1700.0
+"Globalstar M096 (Globalstar 94, Globalstar 2-22)",700.0,1700.0
+"Globalstar M097 (Globalstar 78, Globalstar 2-19)",700.0,1700.0
+Gonets M-11 (Gonets M21),280.0,120.0
+Gonets M-12 (Gonets M22),280.0,120.0
+Gonets M-13 (Gonets M23),280.0,120.0
+Gonets M-14,270.0,120.0
+Gonets M-16,270.0,120.0
+Gonets M-17,270.0,120.0
+Gonets M-18,280.0,120.0
+Gonets M-19,280.0,120.0
+Gonets M-20,280.0,120.0
+Gonets M-24,280.0,120.0
+Gonets M-25,280.0,120.0
+Gonets M-26,280.0,120.0
+Gonets M-27,280.0,120.0
+Gonets M-28,280.0,120.0
+Gonets M-29,280.0,120.0
+Gonets M-30,280.0,120.0
+Gonets M-31,280.0,120.0
+Gonets M-32,280.0,120.0
+"Greenhouse Gases Observing Satellite (Ibuki, GoSAT)",1750.0,3800.0
+Helios 2A ,4200.0,2900.0
+Helios 2B,4200.0,2900.0
+Hinode (Solar B),700.0,1000.0
+Hodoyoshi-3,60.0,50.0
+Hodoyoshi-4,60.0,50.0
+"Hubble Space Telescope (HST, Space Telescope)",11110.0,2400.0
+Iridium Next SV 102,860.0,50.0
+Iridium Next SV 103,860.0,50.0
+Iridium Next SV 104,860.0,50.0
+Iridium Next SV 105,860.0,50.0
+Iridium Next SV 106,860.0,50.0
+Iridium Next SV 107,860.0,50.0
+Iridium Next SV 108,860.0,50.0
+Iridium Next SV 109,860.0,50.0
+Iridium Next SV 110,860.0,50.0
+Iridium Next SV 111,860.0,50.0
+Iridium Next SV 112,860.0,50.0
+Iridium Next SV 113,860.0,50.0
+Iridium Next SV 114,860.0,50.0
+Iridium Next SV 115,860.0,50.0
+Iridium Next SV 116,860.0,50.0
+Iridium Next SV 117,860.0,50.0
+Iridium Next SV 118,860.0,50.0
+Iridium Next SV 119,860.0,50.0
+Iridium Next SV 120,860.0,50.0
+Iridium Next SV 121,860.0,50.0
+Iridium Next SV 122,860.0,50.0
+Iridium Next SV 123,860.0,50.0
+Iridium Next SV 124,860.0,50.0
+Iridium Next SV 125,860.0,50.0
+Iridium Next SV 126,860.0,50.0
+Iridium Next SV 127,860.0,50.0
+Iridium Next SV 128,860.0,50.0
+Iridium Next SV 129,860.0,50.0
+Iridium Next SV 130,860.0,50.0
+Iridium Next SV 131,860.0,50.0
+Iridium Next SV 132,860.0,50.0
+Iridium Next SV 133,860.0,50.0
+Iridium Next SV 134,860.0,50.0
+Iridium Next SV 135,860.0,50.0
+Iridium Next SV 136,860.0,50.0
+Iridium Next SV 137,860.0,50.0
+Iridium Next SV 138,860.0,50.0
+Iridium Next SV 139,860.0,50.0
+Iridium Next SV 140,860.0,50.0
+Iridium Next SV 141,860.0,50.0
+Iridium Next SV 142,860.0,50.0
+Iridium Next SV 143,860.0,50.0
+Iridium Next SV 144,860.0,50.0
+Iridium Next SV 145,860.0,50.0
+Iridium Next SV 146,860.0,50.0
+Iridium Next SV 147,860.0,50.0
+Iridium Next SV 148,860.0,50.0
+Iridium Next SV 149,860.0,50.0
+Iridium Next SV 150,860.0,50.0
+Iridium Next SV 151,860.0,50.0
+Iridium Next SV 152,860.0,50.0
+Iridium Next SV 153,860.0,50.0
+Iridium Next SV 154,860.0,50.0
+Iridium Next SV 155,860.0,50.0
+Iridium Next SV 156,860.0,50.0
+Iridium Next SV 157,860.0,50.0
+Iridium Next SV 158,860.0,50.0
+Iridium Next SV 159,860.0,50.0
+Iridium Next SV 160,860.0,50.0
+Iridium Next SV 161,860.0,50.0
+Iridium Next SV 162,860.0,50.0
+Iridium Next SV 163 ,860.0,50.0
+Iridium Next SV 164,860.0,50.0
+Iridium Next SV 165,860.0,50.0
+Iridium Next SV 166,860.0,50.0
+Iridium Next SV 167,860.0,50.0
+Iridium Next SV 168,860.0,50.0
+Iridium Next SV 169,860.0,50.0
+Iridium Next SV 170,860.0,50.0
+Iridium Next SV 171,860.0,50.0
+Iridium Next SV 172,860.0,50.0
+Iridium Next SV 173,860.0,50.0
+Iridium Next SV 175,860.0,50.0
+Iridium Next SV 176,860.0,50.0
+Iridium Next SV 180,860.0,50.0
+IRIS (Interface Region Imaging Spectrometer),236.0,50.0
+IRS-P6 (Resourcesat-1) ,1360.0,1200.0
+Jason 3,553.0,500.0
+Kanopus-BÂ (Kanopus Vulcan 1)Â ,400.0,300.0
+KazEOSat-1 (Kazcosmos Earth Observation Satellite),830.0,1200.0
+KazEOSat-2 (kazcosmos Earth Observation Satellite),185.0,55.0
+"Kompsat-2 (Arirang 2, Korean planned Multipurpose Satellite-2)",800.0,955.0
+"Kompsat-3 (Arirang 3, Korean Multipurpose Satellite-3)",980.0,1300.0
+"Kompsat-3A (Arirang 3A, Korean Multipurpose Satellite-3A)",980.0,1300.0
+"Kompsat-5 (Arirang 5, Korean Multipurpose Satellite-4)",1400.0,1400.0
+Landsat 7 ,2744.0,1500.0
+Landsat 8,2780.0,4300.0
+LAPAN A2,68.0,32.0
+LAPAN A3,115.0,37.0
+LAPAN-Tubsat (LAPAN A1),60.0,14.0
+Maroc Tubsat ,47.0,56.0
+MOST (Microvariability & Oscillations of STars),53.0,35.0
+Nanosat-1,20.0,20.0
+Nanosat-1B,20.0,20.0
+NOAA-15 (NOAA-K),2223.0,830.0
+"NOAA-18 (NOAA-N, COSPAS-SARSAT)",2223.0,830.0
+NorSat-1,30.0,40.0
+Odin ,250.0,340.0
+ORBCOMM FM-10 (ORBCOMM A2),45.0,160.0
+ORBCOMM FM-11 (ORBCOMM A3),45.0,160.0
+ORBCOMM FM-12 (ORBCOMM A4),45.0,160.0
+ORBCOMM FM-13 (ORBCOMM B1),45.0,160.0
+ORBCOMM FM-14 (ORBCOMM B2),45.0,160.0
+ORBCOMM FM-15 (ORBCOMM B3),45.0,160.0
+ORBCOMM FM-18 (ORBCOMM B6),45.0,160.0
+ORBCOMM FM-19 (ORBCOMM B7),45.0,160.0
+ORBCOMM FM-20 (ORBCOMM B8),45.0,160.0
+ORBCOMM FM-21 (ORBCOMM C1),45.0,160.0
+ORBCOMM FM-23 (ORBCOMM C3),45.0,160.0
+ORBCOMM FM-27 (ORBCOMM C7),45.0,160.0
+ORBCOMM FM-30 (ORBCOMM D2),45.0,160.0
+ORBCOMM FM-31 (ORBCOMM D3),45.0,160.0
+ORBCOMM FM-32 (ORBCOMM D4),45.0,160.0
+ORBCOMM FM-35 (ORBCOMM D7),45.0,160.0
+ORBCOMM FM-36 (ORBCOMM D8),45.0,160.0
+ORBCOMM FM-4 (ORBCOMM G2),45.0,160.0
+ORBCOMM FM-5 (ORBCOMM A6),45.0,160.0
+ORBCOMM FM-6 (ORBCOMM A7),45.0,160.0
+ORBCOMM FM-7 (ORBCOMM A8),45.0,160.0
+ORBCOMM FM-8 (ORBCOMM A1),45.0,160.0
+ORBCOMM FM-9 (ORBCOMM A5),45.0,160.0
+ORBCOMM OG2 FM-103,172.0,400.0
+ORBCOMM OG2 FM-107,172.0,400.0
+ORBCOMM OG2 FM-108,172.0,400.0
+ORBCOMM OG2 FM-109,172.0,400.0
+ORBCOMM OG2 FM-110,172.0,400.0
+ORBCOMM OG2 FM-112,172.0,400.0
+ORBCOMM OG2 FM-113,172.0,400.0
+ORBCOMM OG2 FM-114,172.0,400.0
+ORBCOMM OG2 FM-115,172.0,400.0
+ORBCOMM OG2 FM-116,172.0,400.0
+ORBCOMM OG2 FM-117,172.0,400.0
+ORBCOMM OG2 FM-118,172.0,400.0
+PlÃ©iades HR1A,1000.0,1500.0
+Proba 1 (Project for On-Board Autonomy),100.0,100.0
+Proba 2 (Project for On-Board Autonomy),130.0,86.0
+Rising-2,41.0,42.0
+"Rodnik (Cosmos 2437, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2438, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2439, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2451, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2453, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2481, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2482, Strela 3M)",250.0,300.0
+"Rodnik (Cosmos 2483, Strela 3M)",250.0,300.0
+"Rodnik (Cosmos 2484, Strela 3M)",250.0,300.0
+"Rodnik (Cosmos 2488, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2489, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2490, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2496, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2497, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2498, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2507, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2508, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2509, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2530, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2531, Strela 3M)",280.0,300.0
+"Rodnik (Cosmos 2532, Strela 3M)",280.0,300.0
+SARAL (Satellite with ARGOS and ALTIKA),407.0,906.0
+SCD-1 (SatÃ©lite de Coleta de Dados),110.0,70.0
+SCD-2 (SatÃ©lite de Coleta de Dados),110.0,70.0
+Scisat-1 (Atmospheric Chemistry Experiment),150.0,80.0
+SDS-4 (Small Demonstration Satellite-4),50.0,120.0
+SMOS (Soil Moisture and Ocean Salinity satellite),658.0,1065.0
+SOCRATESÂ Â (Space Optical Communications Research Advanced TEchnology Satellite),48.0,100.0
+SORCE (SOlar Radiation and Climate Experiment),315.0,348.0
+STSat-2C,93.0,160.0
+SWARM-A,468.0,608.0
+SWARM-B,468.0,608.0
+SWARM-C,468.0,608.0
+Swift ,1463.0,1040.0
+"TET-1 (TechnologieerprobungstrÃ¤ger 1, Technology Experiment Carrier)",120.0,20.0
+THEOS (Thailand Earth Observation System),750.0,840.0
+TIMED (Thermosphere â¢ Ionosphere â¢ Mesosphere â¢ Energetics and Dynamics),587.0,406.0
+"TUGSat-1Â Â (Technische UniversitÃ¤t Graz Satellit, CanX-3b, BRITE-Austria)",14.0,5.4
+UNIFORM 1Â Â (UNiversity International FORmation Mission 1),50.0,140.0
+VIREO,95.0,4.0
+Worldview 1,4500.0,3200.0
+Worldview 3,2800.0,3100.0
+X-Sat,91.0,175.0
